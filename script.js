@@ -38,28 +38,4 @@ function userData(e) {
 
 }
 
-
-
-
-
-
-// function userData() {
-//     document.addEventListener('click', (event) => {
-
-//         
-//                 let user = $ { el.name }
-//                 $ { el.email }
-//                 $ { el.phone };
-//                 li.addEventListener('click', (event) => {
-
-//                 });
-//                 user.append(div);
-//                 console.log(data);
-//             })
-//     })
-// }
-
-
-
-
 dataUsers();
